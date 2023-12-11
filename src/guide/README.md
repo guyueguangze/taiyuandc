@@ -5,7 +5,7 @@ icon: lightbulb
 
 ## Highlight Features
 
-### Bar
+### Bar hhhhh
 
 - [baz](bar/baz.md)
 - ...
